@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Rolex",
+    "price": 4000000,
+    "image": "./Assets/product-02-480x638.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "price": 300000,
+    "image": "./Assets/product-03-480x638.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Gucci",
+    "price": 200000,
+    "image": "./Assets/product-05-480x638.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Louis Vuitton",
+    "price": 5000,
+    "image": "./Assets/product-20-480x638.jpg"
+  }
+]
