@@ -1,25 +1,25 @@
 [
   {
     "id": "1",
-    "name": "Rolex",
+    "name": "Chipargoi edarg lacidem",
     "price": 4000000,
     "image": "./Assets/product-02-480x638.jpg"
   },
   {
     "id": "2",
-    "name": "Smart Watch",
+    "name": "Hctaw tire neercSS hot",
     "price": 300000,
     "image": "./Assets/product-03-480x638.jpg"
   },
   {
     "id": "3",
-    "name": "Gucci",
+    "name": "ORP 21Z rekcart sent trope",
     "price": 200000,
     "image": "./Assets/product-05-480x638.jpg"
   },
   {
     "id": "4",
-    "name": "Louis Vuitton",
+    "name": "Artlu 8 serires sehctaw trams",
     "price": 5000,
     "image": "./Assets/product-20-480x638.jpg"
   }

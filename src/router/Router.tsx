@@ -13,14 +13,14 @@ export const Router = createBrowserRouter([
         index: true,
         element: <HomeScreen />,
       },
+      // {
+      //   index: true,
+      //   path: "/detail/:id",
+      //   element: <Detail />,
+      // },
       {
         index: true,
-        path: "/detail/:id",
-        element: <Detail />,
-      },
-      {
-        index: true,
-        path: "/detail/:id/buy",
+        path: "/detail/:id/cart",
         element: <Price />,
       },
     ],

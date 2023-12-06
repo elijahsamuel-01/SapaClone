@@ -27,7 +27,7 @@ export const FlashSale = () => {
 
           <div className="grid grid-cols-4 w-full gap-5">
             {watches.map((el) => (
-              <Link to={`detail/${el.id}`}>
+              <Link to={`detail/${el.id}/cart`}>
                 <div key={el.id} className="min-h-[300px] ">
                   <div>
                     <div
